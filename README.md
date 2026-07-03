@@ -1,3 +1,32 @@
+<!--
+================================================================
+  GitHub Profile README  —  Dinny Paul Navis C
+  ----------------------------------------------------------------
+  HOW TO USE:
+   1. Create a repository named EXACTLY your username: "DinnyNavis"
+      Put this README.md in it -> it renders on your profile.
+   2. Your GitHub username is assumed to be: DinnyNavis
+      If it differs, find-and-replace  DinnyNavis  -> your handle.
+
+  IF THE STATS CARDS SHOW ONLY A TITLE AND NO NUMBERS:
+   That is the PUBLIC github-readme-stats server being rate-limited
+   (a known, frequent issue) OR the account having little public
+   activity yet. It is NOT a markdown error. The permanent fix is to
+   deploy your OWN free instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+   Then replace  github-readme-stats.vercel.app  in the URLs below
+   with  your-instance.vercel.app
+
+  IMAGE NOTE: All images use either shields.io badges or
+  user-images.githubusercontent.com GIFs. Those are the ONLY sources
+  GitHub's image proxy loads reliably. Avoid icons8 / giphy / tenor
+  in READMEs — GitHub's camo proxy frequently blocks them (that is
+  why they showed as broken boxes before). Section icons are emoji,
+  which render natively with no external fetch.
+================================================================
+-->
+
+<!-- ============================ HERO BANNER ============================ -->
 <a href="https://github.com/DinnyNavis">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dinny%20Paul%20Navis%20C&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%20%7C%20%20Full-Stack%20Engineer%20%20%7C%20%20Hackathon%20Winner&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner"/>
 </a>
@@ -21,19 +50,19 @@
 
 </div>
 
-<!-- ============================ BATMAN RUNNING ============================ -->
+<!-- ============================ RUNNING ANIMATION ============================ -->
+<!-- Verified githubusercontent GIFs (HTTP 200) — render reliably on GitHub. -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated line"/>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Batman.gif" width="240" alt="batman running"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90" alt="dev run"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="dev run"/>
 </div>
 
 <br/>
 
 <!-- ============================ ABOUT ME ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="26" align="top"/>
-  &nbsp;About Me
-</h2>
+## 👨‍💻 About Me
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
@@ -50,25 +79,17 @@ class DinnyPaulNavis:
         return "Point a few sleepless nights of code at a real problem."
 ```
 
-<img src="https://img.icons8.com/fluency/20/graduation-cap.png" align="top"/> **Final-year Computer Science student** with a strong analytical mindset and a focus on **Intelligent Automation** and **Generative AI**.
-
-<img src="https://img.icons8.com/fluency/20/bot.png" align="top"/> I design **LLM-powered solutions** — advanced prompt engineering, structured-output extraction, and safety guardrails that minimize hallucinations.
-
-<img src="https://img.icons8.com/fluency/20/internet.png" align="top"/> I ship **full-stack products** across the **MERN stack**, **Python**, and **RESTful API** design, from ticket to deployment.
-
-<img src="https://img.icons8.com/fluency/20/prize.png" align="top"/> **National-level hackathon winner** — I thrive at prototyping under pressure and making sensible trade-offs when time is short.
-
-<img src="https://img.icons8.com/fluency/20/sprout.png" align="top"/> Currently deepening my work in **enterprise-grade AI agents** and **automated data pipelines**.
-
-<img src="https://img.icons8.com/fluency/20/chat.png" align="top"/> Ask me about **LLMs, prompt engineering, AI safety, MERN, and turning rough problem statements into working products.**
+- 🎓 **Final-year Computer Science student** with a strong analytical mindset and a focus on **Intelligent Automation** and **Generative AI**.
+- 🤖 I design **LLM-powered solutions** — advanced prompt engineering, structured-output extraction, and safety guardrails that minimize hallucinations.
+- 🌐 I ship **full-stack products** across the **MERN stack**, **Python**, and **RESTful API** design, from ticket to deployment.
+- 🏆 **National-level hackathon winner** — I thrive at prototyping under pressure and making sensible trade-offs when time is short.
+- 🌱 Currently deepening my work in **enterprise-grade AI agents** and **automated data pipelines**.
+- 💬 Ask me about **LLMs, prompt engineering, AI safety, MERN, and turning rough problem statements into working products.**
 
 <br clear="right"/>
 
 <!-- ============================ TECH STACK ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/maintenance.png" width="26" align="top"/>
-  &nbsp;Tech Stack &amp; Tools
-</h2>
+## 🛠️ Tech Stack &amp; Tools
 
 <div align="center">
 
@@ -115,10 +136,7 @@ class DinnyPaulNavis:
 </div>
 
 <!-- ============================ CORE SPECIALTIES ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/idea.png" width="26" align="top"/>
-  &nbsp;Core Specialties
-</h2>
+## 💡 Core Specialties
 
 <div align="center">
 
@@ -132,16 +150,13 @@ class DinnyPaulNavis:
 </div>
 
 <!-- ============================ FEATURED PROJECTS ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/open-box.png" width="26" align="top"/>
-  &nbsp;Featured Projects
-</h2>
+## 📦 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### MeVoAI
+### 🎙️ MeVoAI
 **Intelligent Data Extraction Platform**
 
 An enterprise-grade LLM platform that converts unstructured **audio into structured JSON insights**, replacing manual data entry with a reliable, AI-first pipeline.
@@ -155,7 +170,7 @@ An enterprise-grade LLM platform that converts unstructured **audio into structu
 </td>
 <td width="50%" valign="top">
 
-### Growlify
+### 🌱 Growlify
 **Full-Stack AI-Powered Urban Farming Assistant**
 
 A published, end-to-end MERN platform pairing **AI plant-disease diagnosis** with weather-based care scheduling and automated irrigation.
@@ -171,7 +186,7 @@ A published, end-to-end MERN platform pairing **AI plant-disease diagnosis** wit
 <tr>
 <td width="50%" valign="top">
 
-### FinLogMonitor
+### 📊 FinLogMonitor
 **Distributed Log Intelligence**
 
 An automated event pipeline built for scale — the foundation for **AI-driven anomaly detection** and compliance-grade monitoring.
@@ -185,7 +200,7 @@ An automated event pipeline built for scale — the foundation for **AI-driven a
 </td>
 <td width="50%" valign="top">
 
-### Explore More
+### ✨ Explore More
 
 My repositories cover AI agents, automation pipelines, and full-stack builds.
 
@@ -202,10 +217,7 @@ My repositories cover AI agents, automation pipelines, and full-stack builds.
 </table>
 
 <!-- ============================ EXPERIENCE ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/briefcase.png" width="26" align="top"/>
-  &nbsp;Experience
-</h2>
+## 💼 Experience
 
 <table>
 <tr>
@@ -233,10 +245,7 @@ My repositories cover AI agents, automation pipelines, and full-stack builds.
 </table>
 
 <!-- ============================ HACKATHONS ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/trophy.png" width="26" align="top"/>
-  &nbsp;Hackathon Achievements
-</h2>
+## 🏆 Hackathon Achievements
 
 <div align="center">
 
@@ -248,9 +257,7 @@ My repositories cover AI agents, automation pipelines, and full-stack builds.
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/first-place-ribbon.png" width="40"/>
-
-### 1st Place
+### 🥇 1st Place
 **HackWise 2.0**
 KVG College of Engineering × Hack.io
 `National Winner · 2025`
@@ -258,9 +265,7 @@ KVG College of Engineering × Hack.io
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/second-place-ribbon.png" width="40"/>
-
-### 2nd Place
+### 🥈 2nd Place
 **Praset Hack 2K25**
 Sri Sairam Institute of Technology
 `National Finalist`
@@ -268,9 +273,7 @@ Sri Sairam Institute of Technology
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/third-place-ribbon.png" width="40"/>
-
-### 3rd Place
+### 🥉 3rd Place
 **Hackstrom 2.0**
 Easa College of Engineering
 `National Finalist`
@@ -286,10 +289,7 @@ Easa College of Engineering
 </div>
 
 <!-- ============================ CERTIFICATIONS ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/diploma.png" width="26" align="top"/>
-  &nbsp;Certifications
-</h2>
+## 📜 Certifications
 
 <div align="center">
 
@@ -301,10 +301,7 @@ Easa College of Engineering
 </div>
 
 <!-- ============================ GITHUB STATS ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="26" align="top"/>
-  &nbsp;GitHub Analytics
-</h2>
+## 📈 GitHub Analytics
 
 <!--
   NOTE: If these cards show only a title with no data, the PUBLIC
@@ -327,10 +324,7 @@ Easa College of Engineering
 </div>
 
 <!-- ============================ ACTIVITY GRAPH ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/line-chart.png" width="26" align="top"/>
-  &nbsp;Contribution Activity
-</h2>
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -345,12 +339,9 @@ Easa College of Engineering
 -->
 
 <!-- ============================ FUN FACTS ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/sparkling.png" width="26" align="top"/>
-  &nbsp;Fun Facts
-</h2>
+## ⚡ Fun Facts
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Batman.gif" alt="batman running"/>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="dev run"/>
 
 - My best debugging breakthroughs happen at **2 a.m.** — one of them turned into a national-winning prototype.
 - I'm a **published author** — my paper on *Growlify* appears in **IJIRT (2025)**.
@@ -361,10 +352,7 @@ Easa College of Engineering
 <br clear="right"/>
 
 <!-- ============================ CONNECT ============================ -->
-<h2>
-  <img src="https://img.icons8.com/fluency/48/link.png" width="26" align="top"/>
-  &nbsp;Let's Connect
-</h2>
+## 🔗 Let's Connect
 
 <div align="center">
 
