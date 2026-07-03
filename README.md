@@ -1,3 +1,33 @@
+<!--
+================================================================
+  GitHub Profile README  —  Dinny Paul Navis C
+  ----------------------------------------------------------------
+  HOW TO USE:
+   1. Create a repository named EXACTLY your username: "DinnyNavis"
+      Put this README.md in it -> it renders on your profile.
+   2. Your GitHub username is assumed to be: DinnyNavis
+      If it differs, find-and-replace  DinnyNavis  -> your handle.
+
+  BATMAN ANIMATION:
+   Self-hosted at repo root as  batman-pixel-art.gif  (already uploaded).
+   Because Giphy/Tenor are blocked by GitHub's image proxy, hosting the
+   GIF in your own repo is the only reliable way to show it. If you ever
+   rename or move the file, update the two <img src="batman-pixel-art.gif">
+   references below to match.
+
+  IF THE STATS CARDS SHOW ONLY A TITLE AND NO NUMBERS:
+   The PUBLIC github-readme-stats server is rate-limited (common) or
+   the account has little public activity yet. NOT a markdown error.
+   Permanent fix: deploy your own free instance and swap the host:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+
+  ICONS: Section icons use skillicons.dev (verified to render through
+  GitHub's proxy). Tech logos use skillicons.dev + shields.io. No
+  emoji, no icons8, no giphy/tenor — those get blocked by GitHub.
+================================================================
+-->
+
+<!-- ============================ HERO BANNER ============================ -->
 <a href="https://github.com/DinnyNavis">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dinny%20Paul%20Navis%20C&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%20%7C%20%20Full-Stack%20Engineer%20%20%7C%20%20Hackathon%20Winner&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner"/>
 </a>
@@ -23,13 +53,13 @@
 
 <!-- ============================ BATMAN RUNNING (SELF-HOSTED) ============================ -->
 <!--
-  Self-hosted so it always renders. Add  assets/batman.gif  to your repo.
+  Batman is self-hosted (batman-pixel-art.gif at repo root) so it always renders.
   The animated divider below is a githubusercontent GIF (verified 200).
 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
   <br/>
-  <img src="assets/batman.gif" width="260" alt="Batman running"/>
+  <img src="batman-pixel-art.gif" width="260" alt="Batman running"/>
 </div>
 
 <br/>
@@ -300,7 +330,7 @@ Easa College of Engineering
 <img src="https://skillicons.dev/icons?i=redis" width="24" align="top"/> &nbsp;**Fun Facts**
 <br/><br/>
 
-<img align="right" width="230" src="assets/batman.gif" alt="Batman running"/>
+<img align="right" width="230" src="batman-pixel-art.gif" alt="Batman running"/>
 
 - My best debugging breakthroughs happen at **2 a.m.** — one of them turned into a national-winning prototype.
 - I'm a **published author** — my paper on *Growlify* appears in **IJIRT (2025)**.
