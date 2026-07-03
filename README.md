@@ -8,12 +8,15 @@
    2. Your GitHub username is assumed to be: DinnyNavis
       If it differs, find-and-replace  DinnyNavis  -> your handle.
 
-  BATMAN ANIMATION:
-   Self-hosted at repo root as  batman-pixel-art.gif  (already uploaded).
-   Because Giphy/Tenor are blocked by GitHub's image proxy, hosting the
-   GIF in your own repo is the only reliable way to show it. If you ever
-   rename or move the file, update the two <img src="batman-pixel-art.gif">
-   references below to match.
+  >>> ACTION REQUIRED FOR THE BATMAN ANIMATION <<<
+   This README references a self-hosted GIF at:  assets/batman.gif
+   Because Giphy/Tenor are blocked by GitHub's image proxy, the ONLY
+   reliable way to show Batman is to host it in your own repo:
+     1. Download any "Batman running" GIF you like.
+     2. In your DinnyNavis repo, create a folder named  assets
+     3. Save the file there as  batman.gif  (exact name).
+   Until you add that file, the Batman image will show a broken box.
+   Everything else renders without any setup.
 
   IF THE STATS CARDS SHOW ONLY A TITLE AND NO NUMBERS:
    The PUBLIC github-readme-stats server is rate-limited (common) or
@@ -32,15 +35,16 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dinny%20Paul%20Navis%20C&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%20%7C%20%20Full-Stack%20Engineer%20%20%7C%20%20Hackathon%20Winner&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner"/>
 </a>
 
-<!-- ============================ TYPING INTRO ============================ -->
-<div align="center">
+<!-- ============================ HERO ROW: NAME (left) + BATMAN (right) ============================ -->
+<!--
+  Batman is self-hosted (batman-pixel-art.gif at repo root) so it always renders.
+  Two-column layout: typing intro + badges on the left, Batman running on the right.
+-->
+<table width="100%">
+<tr>
+<td width="68%" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+enterprise-grade+AI+agents;Designing+LLM-powered+automation+workflows;Turning+unstructured+data+into+structured+insight;Full-Stack+MERN+Developer+%7C+Python+Enthusiast;National+Hackathon+Winner)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ============================ SOCIAL BADGES ============================ -->
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&vCenter=true&width=560&lines=Building+enterprise-grade+AI+agents;Designing+LLM-powered+automation+workflows;Turning+unstructured+data+into+structured+insight;Full-Stack+MERN+Developer+%7C+Python+Enthusiast;National+Hackathon+Winner)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinnypaulnavisc)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DinnyNavis)
@@ -49,18 +53,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=DinnyNavis&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
 
-</div>
+</td>
+<td width="32%" align="center" valign="middle">
 
-<!-- ============================ BATMAN RUNNING (SELF-HOSTED) ============================ -->
-<!--
-  Batman is self-hosted (batman-pixel-art.gif at repo root) so it always renders.
-  The animated divider below is a githubusercontent GIF (verified 200).
--->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
-  <br/>
-  <img src="batman-pixel-art.gif" width="260" alt="Batman running"/>
-</div>
+<img src="batman-pixel-art.gif" width="230" alt="Batman running"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated divider"/>
 
 <br/>
 
@@ -287,26 +289,18 @@ Easa College of Engineering
 
 </div>
 
-<!-- ============================ GITHUB STATS ============================ -->
-<img src="https://skillicons.dev/icons?i=github" width="24" align="top"/> &nbsp;**GitHub Analytics**
+<!-- ============================ STREAK STATS ============================ -->
+<img src="https://skillicons.dev/icons?i=github" width="24" align="top"/> &nbsp;**Coding Streak**
 <br/><br/>
 
 <!--
-  NOTE: If these cards show only a title with no data, the PUBLIC
-  github-readme-stats server is rate-limited or the account has little
-  public activity yet. Deploy your own free instance and swap the host.
+  Only the streak card is kept (it renders reliably). The github-readme-stats
+  overview card and the top-languages card were removed at the user's request.
 -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinnyNavis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="github stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DinnyNavis&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B00&currStreakLabel=36BCF7" alt="streak stats"/>
-
-</div>
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinnyNavis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" alt="top languages"/>
 
 </div>
 
@@ -330,7 +324,7 @@ Easa College of Engineering
 <img src="https://skillicons.dev/icons?i=redis" width="24" align="top"/> &nbsp;**Fun Facts**
 <br/><br/>
 
-<img align="right" width="230" src="batman-pixel-art.gif" alt="Batman running"/>
+<img align="right" width="230" src="assets/batman.gif" alt="Batman running"/>
 
 - My best debugging breakthroughs happen at **2 a.m.** — one of them turned into a national-winning prototype.
 - I'm a **published author** — my paper on *Growlify* appears in **IJIRT (2025)**.
