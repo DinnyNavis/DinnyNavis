@@ -1,17 +1,4 @@
-<!--
-================================================================
-  GitHub Profile README  —  Dinny Paul Navis C
-  ----------------------------------------------------------------
-  HOW TO USE:
-   1. This file is designed for a GitHub PROFILE repo.
-      Create a repository named EXACTLY your username: "DinnyNavis"
-      Add this README.md to it, and it renders on your profile.
-   2. PLACEHOLDERS to replace are marked with  <!-- REPLACE: ... -->
-      Search the file for the word  REPLACE  to find them all.
-   3. Your GitHub username is assumed to be: DinnyNavis
-      If it differs, do a find-and-replace of  DinnyNavis  → your handle.
-================================================================
--->
+
 
 <!-- ===================== HERO BANNER (WAVE HEADER) ===================== -->
 <a href="https://github.com/DinnyNavis">
